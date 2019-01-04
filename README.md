@@ -2,6 +2,8 @@
 
 # 🦀🕸️ `wasm-pack-template`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/wasm-funsies.svg)](https://greenkeeper.io/)
+
 A template for kick starting a Rust and WebAssembly project using
 [`wasm-pack`](https://github.com/rustwasm/wasm-pack).
 
